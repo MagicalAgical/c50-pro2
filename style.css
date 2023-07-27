@@ -1,0 +1,33 @@
+body{
+    background-color: aqua;
+   }
+   h1{
+       color: red;
+   }
+   
+   .header{
+    background-color: bisque;
+
+    display: flex;
+
+    justify-content: space-between;
+   }
+
+.grid{
+    display: flex;
+    justify-content:space-evenly;
+    flex-wrap: wrap;
+}
+
+.footer{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+.space{
+    margin: 20px;
+    
+}
+a{
+    padding-right: 20px;
+}
